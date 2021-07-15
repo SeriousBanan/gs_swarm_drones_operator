@@ -1,0 +1,17 @@
+{
+    "drones count": ...,
+    "drones initial positions": {
+        "0": ...,
+    },
+    "addresses": {
+        "operator": {
+            "ip": "...",
+            "port": 10000
+        },
+        "0": {
+            "ip": "...",
+            "port": 10000
+        }
+    },
+    "image file path": "received_image.png"
+}
